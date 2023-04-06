@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nupur Gohite</h1>
-<img align="right" width="400" src="https://www.behance.net/gallery/58246739/GIF-Collection-v2/modules/342895571" alt="coding">
+<img align="right" width="400" src="https://dribbble.com/shots/6832881-Lovely-little-robot/attachments/6832881-Lovely-little-robot?mode=media" alt="coding">
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gohitenupur&label=Profile%20views&color=0e75b6&style=flat" alt="gohitenupur" /> </p>
