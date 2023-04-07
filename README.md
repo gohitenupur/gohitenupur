@@ -47,7 +47,11 @@
 <div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gohitenupur&show_icons=true&locale=en&layout=compact" alt="gohitenupur" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gohitenupur&show_icons=true&locale=en&layout=compact" alt="gohitenupur" />
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gohitenupur&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  </p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gohitenupur&show_icons=true&locale=en" alt="gohitenupur" /></p>
