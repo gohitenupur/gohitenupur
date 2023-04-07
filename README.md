@@ -9,12 +9,12 @@
 </div>
 <h5 align="center">
   <code>
-    <a href="https://linkedin.com/in/nupur-gohite-5594b6135" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://linkedin.com/in/nupur-gohite-5594b6135" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nupur-gohite-5594b6135"> LinkedIn</a></code>
   <code><a href="https://www.leetcode.com/nupur-gohite" title="LeetCode Profile"><img width="22" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"> LeetCode</a></code>
  
 </h5>
 <h5 align="center">
-  <code><a href="https://abhideepghosh.netlify.app/" title="Portfolio"> 👑Portfolio👑</a></code>
+  <code><a href="https://portfolio-61f739.netlify.app/" title="Portfolio"> 👑Portfolio👑</a></code>
 </h5>
 <br>
 <h3 align="center">Hi, I'm Nupur Gohite, A Full Stack Web Developer from India</h3>
